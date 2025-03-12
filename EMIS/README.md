@@ -31,7 +31,7 @@ The **Employee Management Information System (EMIS)** is a Django-based web appl
 ## Setup Instructions
 
 ### Step 0: Prerequisites
-- Python 3.8+
+- Python 3.12+
 - PostgreSQL
 - pip (Python package manager)
 ---
